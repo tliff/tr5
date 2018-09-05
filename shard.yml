@@ -1,0 +1,13 @@
+name: tr5
+version: 0.1.0
+
+authors:
+  - Stefan Maier <stefanmaier@gmail.com>
+
+targets:
+  tr5:
+    main: src/tr5.cr
+
+crystal: 0.26.1
+
+license: MIT
